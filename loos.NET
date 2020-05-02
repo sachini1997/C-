@@ -1,0 +1,19 @@
+
+using System; 
+
+class whileLoopDemo 
+{ 
+	public static void Main() 
+	{ 
+		int s = 1; 
+
+		
+		while (s <= 4) 
+		{ 
+			Console.WriteLine("Sachini"); 
+
+			
+			s++; 
+		} 
+	} 
+} 
